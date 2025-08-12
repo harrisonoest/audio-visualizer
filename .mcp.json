@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ratatui-docs": {
+      "type": "http",
+      "url": "https://gitmcp.io/ratatui/ratatui"
+    }
+  }
+}
