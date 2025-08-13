@@ -1,9 +1,16 @@
-# audio-visualizer
+# Audio Visualizer
 
 This is a [Ratatui] app that displays a bar visualizer in the terminal, using the current audio output.
 
 [Ratatui]: https://ratatui.rs
-[Simple Template]: https://github.com/ratatui/templates/tree/main/simple
+
+## Features
+
+- Ability to change the color of the bars
+- Ability to change the number of barss
+- Ability to change the refresh rate
+- Ability to change the audio source
+- The UI automatically updates to the window size
 
 ## License
 
